@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://khushboogoel01.github.io)
+[![MasterHead]([https://media-exp1.licdn.com/dms/imag...](https://github.com/Mhendrapratap/Mhendrapratap/blob/main/github-header-image.png))]
 <h1 align="center">Hi 👋, I'm Mahendra Pratap Singh</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
