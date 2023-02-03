@@ -1,4 +1,4 @@
-[![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)](https://Mhendrapratap.gihub.io)
+[![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)](https://mhendrapratap.github.io/)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mahendra Pratap Singh</h1>
 <h3 align="center" ><i>A passionate Java Backend developer</i></h3>
 <br>
