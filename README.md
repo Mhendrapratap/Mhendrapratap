@@ -1,5 +1,5 @@
-[![MasterHead](https://camo.githubusercontent.com/ce68b2fdf74b20a2e80ee6cbe96c4bed95da29cae1825c749e854c67ddc35e9e/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f37393733313536383039373539392e356235306263613437373733352e6a7067)](https://Mhendrapratap.io)
-<h1 align="center">Hi 👋, I'm Mahendra Pratap Singh</h1>
+[![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)](https://Mhendrapratap.io)
+<img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30"><h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mahendra Pratap Singh</h1>
 <h3 align="center" ><i>A passionate Java Backend developer</i></h3>
 <br>
 <table style="border: 0.5px solid;" align="center">
