@@ -19,27 +19,26 @@
   <br>
 </table> 
 <div><h2 align="center"><b>Stats</b></h2></div>
-<tr widht="100%">
-    <td width="45%" align="center">
-    <a href="https://github.com/Mhendrapratap">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mhendrapratap&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mahendra's Github Stats" height="180rem"/>
+<table align="center">
+<tr>
+    <td>
+    <a href="https://github.com/Mhendrapratap"><img align="centre" src="https://github-readme-stats.vercel.app/api?username=Mhendrapratap&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mahendra's Github Stats" height="180rem"/>
     </a>
      </td>
-  </tr>
-  <tr align="center">
-    <td width="40%" align="center"> 
-    <a href="https://github.com/Mhendrapratap/Mhendrapratap"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Mhendrapratap&theme=tokyonight&hide_border=true" height="180rem"/></a>
+    <td> 
+    <a href="https://github.com/Mhendrapratap/Mhendrapratap"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mhendrapratap&theme=tokyonight&hide_border=true" height="180rem"/></a>
      </td>
   </tr>
-  <div>
-  <tr>
+</table>
+<table align="center">
+<tr>
     <td width="55%">
-     <p align="center" style="padding-top: 20px">
+     <p align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhendrapratap&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
       </p>
     </td>
   </tr>
-    </div>
+ </table>
   <tr>
     <td>
     <h2 align="center"><b>Trophies</b></h2>
