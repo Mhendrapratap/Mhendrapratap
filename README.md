@@ -86,9 +86,6 @@
         <br>if you need further information or help.
       </p>
       <br>
-      <a href="mahendrapratap354@gmail.com" >
-      <img align="center" alt="Mahendra Pratap Singh | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
-      </a> &nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/mahendra-pratap-singh-a45610117/" >
       <img align="center" alt="Mahendra Pratap Singh | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
       </a>
