@@ -4,7 +4,7 @@
 <br>
 <table style="border: 0.5px solid;" align="center">
 <tr>
-<td width="50%" >
+<td width="50%" > 
     
  &nbsp;&nbsp;&nbsp;&nbsp;[![](https://visitcount.itsvg.in/api?id=Mhendrapratap&icon=0&color=1)](https://visitcount.itsvg.in) 
 - 🌱 I’m currently learning **Java and Spring**
@@ -19,8 +19,8 @@
   <br>
 </table> 
 <div><h2 align="center"><b>Stats</b></h2></div>
-<tr>
-    <td width="60%" align="center">
+<tr widht="100%">
+    <td width="45%" align="center">
     <a href="https://github.com/Mhendrapratap">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mhendrapratap&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mahendra's Github Stats" height="180rem"/>
     </a>
@@ -100,3 +100,4 @@
 </table>
 
 [![Mahendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mhendrapratap&theme=tokyo-night)](https://github.com/Mhendrapratap/github-readme-activity-graph)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
