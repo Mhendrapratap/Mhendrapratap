@@ -26,7 +26,7 @@
     </a>
      </td>
     <td> 
-    <a href="https://github.com/Mhendrapratap/Mhendrapratap"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mhendrapratap&theme=tokyonight&hide_border=true" height="180rem"/></a>
+    <a href="https://github.com/Mhendrapratap"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mhendrapratap&theme=tokyonight&hide_border=true" height="180rem"/></a>
      </td>
   </tr>
 </table>
