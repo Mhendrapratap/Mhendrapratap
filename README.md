@@ -5,8 +5,14 @@
 <table style="border: 0.5px solid;" align="center">
 <tr>
 <td width="50%" > 
+ <table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/Mhendrapratap/count.svg" alt="" /></td>
+  </tr>
+</table>
     
- &nbsp;&nbsp;&nbsp;&nbsp;[![](https://visitcount.itsvg.in/api?id=Mhendrapratap&icon=0&color=1)](https://visitcount.itsvg.in) 
+<!--  &nbsp;&nbsp;&nbsp;&nbsp;[![](https://visitcount.itsvg.in/api?id=Mhendrapratap&icon=0&color=1)](https://visitcount.itsvg.in)  -->
 - 🌱 I’m currently learning **Java and Spring**
 - 👨‍💻 All of my projects are available at [https://mhendrapratap.github.io/](https://mhendrapratap.github.io/)
 - 💬 Ask me about **Java | DSA | Spring**
