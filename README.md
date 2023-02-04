@@ -18,7 +18,7 @@
  
 - 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1L3h5V_kNGxB0QVvHyLT0QZBATsylwCZr/view?usp=share_link)**
  
-- 📫 How to reach me ***mahendrapratap354@gmail.com***
+- 📫 How to reach me **`mahendrapratap354@gmail.com`**
  
  </td>
     <td width="45%" style="border:0.5px solid">
