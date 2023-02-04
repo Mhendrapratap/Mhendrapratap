@@ -1,25 +1,21 @@
 [![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)](https://mhendrapratap.github.io/)
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mahendra Pratap Singh</h1>
-<h3 align="center" ><i>A passionate Java Backend developer</i></h3>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hi, I'm Mahendra Pratap Singh</h1>
+<h3 align="center" ><i>A passionate Java Backend Developer</i></h3>
 <br>
-<table style="border: 0.5px solid;" align="center">
+<table style="border: 0.5px solid;" align="center" widht="100%">
 <tr>
-<td width="50%" > 
- <table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/Mhendrapratap/count.svg" alt="" /></td>
-  </tr>
-</table>
-    
+<td width="50%" >  
+ 
 <!--  &nbsp;&nbsp;&nbsp;&nbsp;[![](https://visitcount.itsvg.in/api?id=Mhendrapratap&icon=0&color=1)](https://visitcount.itsvg.in)  -->
 - 🌱 I’m currently learning **Java and Spring**
-- 👨‍💻 All of my projects are available at [https://mhendrapratap.github.io/](https://mhendrapratap.github.io/)
+- 👨‍💻 All of my projects are available at **[here](https://github.com/Mhendrapratap)**
+- 👨🏻‍🎓 Visit my **[Portfolio](https://mhendrapratap.github.io/)**
 - 💬 Ask me about **Java | DSA | Spring**
+- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1L3h5V_kNGxB0QVvHyLT0QZBATsylwCZr/view?usp=share_link)**
 - 📫 How to reach me **mahendrapratap354@gmail.com**
     </td>
     <td width="50%" style="border:0.5px solid">
-    <p align="left"><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
+    <p align="center"><img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
     </td>
   </tr>
   <br>
@@ -102,4 +98,12 @@
 </table>
 
 [![Mahendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mhendrapratap&theme=tokyo-night)](https://github.com/Mhendrapratap/github-readme-activity-graph)
+
+ <table align="center">
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/Mhendrapratap/count.svg" alt="" /></td>
+  </tr>
+</table>
+
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
