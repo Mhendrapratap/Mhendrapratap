@@ -12,9 +12,7 @@
 - 👨🏻‍🎓 Visit my **[Portfolio](https://mhendrapratap.github.io/)**
 - 💬 Ask me about **Java | DSA | Spring**
 - 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1L3h5V_kNGxB0QVvHyLT0QZBATsylwCZr/view?usp=share_link)**
- 
-<!-- - 📫 How to reach me **mahendrapratap354@gmail.com** -->
-    
+- 📫 How to reach me ***mahendrapratap354@gmail.com*** 
  </td>
     <td width="50%" style="border:0.5px solid">
     <p align="center"><img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
