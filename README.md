@@ -20,9 +20,9 @@
   </tr>
   <br>
 </table> 
-<div><h2 align="center"><b>Stats</b></h2></div>
-<table align="center">
-<tr>
+<table align="center" border="0.1">
+ <th colspan="2"> <div><h2 align="center"><b>Stats</b></h2></div> </th>
+<tr widht="100%">
     <td>
     <a href="https://github.com/Mhendrapratap"><img align="centre" src="https://github-readme-stats.vercel.app/api?username=Mhendrapratap&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mahendra's Github Stats" height="180rem"/>
     </a>
@@ -31,10 +31,8 @@
     <a href="https://github.com/Mhendrapratap"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mhendrapratap&theme=tokyonight&hide_border=true" height="180rem"/></a>
      </td>
   </tr>
-</table>
-<table align="center">
 <tr>
-    <td width="55%">
+    <td width="55%" colspan="2">
      <p align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhendrapratap&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
       </p>
