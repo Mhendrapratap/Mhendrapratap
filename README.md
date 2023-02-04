@@ -51,7 +51,7 @@
   <!-- TEch Stack -->
   <table style="border:0px" align="center">
   <tr>
-   <td width="55%">
+   <td width="50%">
     <h2 align="center"><b>Tech Stack</b></h2>
     <ul>
     <li>
@@ -78,7 +78,7 @@
     </li>
     </ul>
    </td>
-   <td width="45%">
+   <td width="50%">
     <div align="center">
       <h2><b>How to Reach Me</b></h2>
       <br>
