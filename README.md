@@ -10,7 +10,7 @@
  
 - 🌱 I’m currently learning **Java and Spring**
  
-- 👨‍💻 All of my projects are available at **[here](https://github.com/Mhendrapratap)**
+- 👨‍💻 All of my projects are available at **[here](https://github.com/Mhendrapratap/Mhendrapratap)**
  
 - 👨🏻‍🎓 Visit my **[Portfolio](https://mhendrapratap.github.io/)**
  
