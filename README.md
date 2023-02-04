@@ -21,7 +21,7 @@
   <br>
 </table> 
 <table align="center" border="0.1">
- <th colspan="2"> <div><h2 align="center"><b>Stats&nbsp;</b></h2></div> </th>
+ <th colspan="2"> <div><h2 align="center"><b>Stats&nbsp;&nbsp;&nbsp;</b></h2></div> </th>
 <tr widht="100%">
     <td>
     <a href="https://github.com/Mhendrapratap"><img align="centre" src="https://github-readme-stats.vercel.app/api?username=Mhendrapratap&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Mahendra's Github Stats" height="180rem"/>
