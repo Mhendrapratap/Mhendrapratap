@@ -82,8 +82,8 @@
     <div align="center">
       <h2><b>How to Reach Me</b></h2>
       <br>
-        <p>Please don't hesitate to contact me 
-        <br>if you need further information or help.
+        <p>Please don't hesitate to contact me<br>
+        if you need further information or help.
       </p>
       <br>
       <a href="https://www.linkedin.com/in/mahendra-pratap-singh-a45610117/" >
