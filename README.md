@@ -84,11 +84,11 @@
       <br>
         <p>Please don't hesitate to contact me
          <br>
-        if you need further information or help.
+        <br>if you need further information or help.
          <br>
       </p>
       <br>
-      <a href="https://www.linkedin.com/in/mahendra-pratap-singh-a45610117/" >
+      <a href="https://www.linkedin.com/in/mahendra-pratap-singh-a45610117/" ><br>
       <img align="center" alt="Mahendra Pratap Singh | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
       </a>
       <br>
