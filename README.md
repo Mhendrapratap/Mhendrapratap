@@ -4,17 +4,24 @@
 <br>
 <table style="border: 0.5px solid;" align="center" widht="100%">
 <tr>
-<td width="50%" >  
+<td width="55%" >  
  
 <!--  &nbsp;&nbsp;&nbsp;&nbsp;[![](https://visitcount.itsvg.in/api?id=Mhendrapratap&icon=0&color=1)](https://visitcount.itsvg.in)  -->
+ 
 - 🌱 I’m currently learning **Java and Spring**
+ 
 - 👨‍💻 All of my projects are available at **[here](https://github.com/Mhendrapratap)**
+ 
 - 👨🏻‍🎓 Visit my **[Portfolio](https://mhendrapratap.github.io/)**
+ 
 - 💬 Ask me about **Java | DSA | Spring**
+ 
 - 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1L3h5V_kNGxB0QVvHyLT0QZBATsylwCZr/view?usp=share_link)**
-- 📫 How to reach me ***mahendrapratap354@gmail.com*** 
+ 
+- 📫 How to reach me ***mahendrapratap354@gmail.com***
+ 
  </td>
-    <td width="50%" style="border:0.5px solid">
+    <td width="45%" style="border:0.5px solid">
     <p align="center"><img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
     </td>
   </tr>
@@ -95,9 +102,7 @@
    </td>
   </tr>
 </table>
-
-[![Mahendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mhendrapratap&theme=tokyo-night)](https://github.com/Mhendrapratap/github-readme-activity-graph)
-
+<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Mhendrapratap&theme=tokyo-night" alt="Mhendrapratap" /></p>
  <table align="center">
   <tr>
     <td>You are visitor</td>
