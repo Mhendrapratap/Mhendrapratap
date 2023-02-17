@@ -16,7 +16,7 @@
  
 - 💬 Ask me about **Java | DSA | Spring**
  
-- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1L3h5V_kNGxB0QVvHyLT0QZBATsylwCZr/view?usp=share_link)**
+- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1LhTjZEdtS4vM05BD1QAa_KU8LkWvZHPv/view?usp=sharing)**
  
 - 📫 How to reach me **`mahendrapratap354@gmail.com`**
  
