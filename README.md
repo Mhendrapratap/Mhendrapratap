@@ -27,7 +27,7 @@
   </tr>
   <br>
 </table> 
-<table align="center" border="0.1">
+<!-- <table align="center" border="0.1">
  <th colspan="2"> <div><h2 align="center"><b>Stats&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></h2></div> </th>
 <tr widht="100%">
     <td>
@@ -44,7 +44,19 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhendrapratap&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
       </p>
     </td>
-  </tr>
+  </tr> -->
+<!--------------------------- Github Stats ---------------------->
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mhendrapratap&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mhendrapratap&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mhendrapratap&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mhendrapratap&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mhendrapratap&theme=github_dark&utcOffset=8">
+	
+</p>
+<!------------------------------ Trophies ------------------------>
  </table>
   <tr>
     <td>
@@ -55,53 +67,26 @@
     </td>
     </tr>
 </table>
-  <!-- TEch Stack -->
-  <table style="border:0px" align="center">
-  <tr>
-   <td width="50%">
-    <h2 align="center"><b>Tech Stack</b></h2>
-    <ul>
-    <li>
-    <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
-    </li>
-    <li>
-    <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring"/>
-    </li>
-    <li>
-    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
-    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
-    </li>
-    <li>
-    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-    <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-    <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
-    </li>
-    <li>
-    <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
-    </li>
-    <li>
-    <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-    </li>
-    </ul>
-   </td>
-   <td width="50%">
-    <div align="center">
-      <h2><b>How to Reach Me</b></h2>
-      <br>
-        <p>Please don't hesitate to contact me
-         <br>
-        <br>if you need further information or help.
-         <br>
-      </p>
-      <a href="https://www.linkedin.com/in/mahendra-pratap-singh-a45610117/" ><br>
-      <img align="center" alt="Mahendra Pratap Singh | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
-      </a>
-      <br>
-    </div>
-   </td>
-  </tr>
-</table>
+<!-------------- TEch Stack --------------->
+<h3 align="center">My Tech Stack</h3>
+<br/>
+<p align="center" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,linux,spring,hibernate,maven,mysql,js,html,bootstrap" />
+  </a>
+</p>
+
+<br/>
+<h3 align="center">Tools & Softwares</h3>
+
+<br/>
+<p align="center" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=eclipse,git,github,vscode" />
+  </a>
+</p>
+
+<!-------------  ---------------------->
 <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Mhendrapratap&theme=tokyo-night" alt="Mhendrapratap" /></p>
  <table align="center">
   <tr>
