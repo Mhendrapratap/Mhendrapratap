@@ -1,8 +1,8 @@
-[![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)](https://mhendrapratap.github.io/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header">
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">Hi, I'm Mahendra Pratap Singh</h1>
 <h3 align="center"><i>A passionate Java Backend Developer</i></h3>
 <br>
- <p align="right"><img alt="Coding" width="350" height= "300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
+<div style="display:flex; align-items: center; justify-content: space-evenly;" align="center">
 <div align = "left">
 
 - 🌱 I’m currently learning **Java and Spring**
@@ -17,6 +17,8 @@
  
 - 📫 How to reach me **`mahendrapratap354@gmail.com`**
 </div>
+<div>
+<p align="center"><img alt="Coding" width="350"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p></div></div>
 <!--------------------------- Github Stats ---------------------->
 <h2 align="center">GitHub Stats</h2>
 
@@ -25,8 +27,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mhendrapratap&theme=github_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mhendrapratap&theme=github_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mhendrapratap&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mhendrapratap&theme=github_dark&utcOffset=8">
-	
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mhendrapratap&theme=github_dark&utcOffset=8">	
 </p>
 <!------------------------------ Trophies ------------------------>
 <h2 align="center"><b>Trophies</b></h2>
@@ -59,4 +60,4 @@
 <p align="center">
 <img src="https://profile-counter.glitch.me/Mhendrapratap/count.svg" alt="" /></p>
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
