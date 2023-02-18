@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">Hi, I'm Mahendra Pratap Singh</h1>
 <h3 align="center"><i>A passionate Java Backend Developer</i></h3>
 <br>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350px" align="right"><br>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350px" height="250px" align="right"><br>
 
 - 🌱 I’m currently learning **Java and Spring**
  
@@ -17,6 +17,7 @@
 - 📫 How to reach me **`mahendrapratap354@gmail.com`**
 
 <!--------------------------- Github Stats ---------------------->
+<br/><br/>
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
