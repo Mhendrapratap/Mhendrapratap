@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header">
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">Hi, I'm Mahendra Pratap Singh</h1>
 <h3 align="center"><i>A passionate Java Backend Developer</i></h3>
 <br>
-<p align="right"><img alt="Coding" width="350"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
-         
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350px" align="right"><br>
+
 - 🌱 I’m currently learning **Java and Spring**
  
 - 👨‍💻 All of my projects are available at **[here](https://github.com/Mhendrapratap/Mhendrapratap)**
@@ -15,6 +15,7 @@
 - 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1LhTjZEdtS4vM05BD1QAa_KU8LkWvZHPv/view?usp=sharing)**
  
 - 📫 How to reach me **`mahendrapratap354@gmail.com`**
+
 <!--------------------------- Github Stats ---------------------->
 <h2 align="center">GitHub Stats</h2>
 
@@ -31,7 +32,7 @@
     <img height="150em" src="https://github-profile-trophy.vercel.app/?username=Mhendrapratap&theme=darkhub&no-frame=true&no-bg=false&margin-w=4"/>
     </p>
 <!-------------- TEch Stack --------------->
-<h3 align="center">My Tech Stack</h3>
+<h2 align="center">My Tech Stack</h2>
 <br/>
 <p align="center" >
   <a href="https://skillicons.dev">
@@ -40,7 +41,7 @@
 </p>
 
 <br/>
-<h3 align="center">Tools & Softwares</h3>
+<h2 align="center">Tools & Softwares</h2>
 
 <br/>
 <p align="center" >
