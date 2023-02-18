@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header">
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">Hi, I'm Mahendra Pratap Singh</h1>
 <h3 align="center"><i>A passionate Java Backend Developer</i></h3>
 <br>
-<div style="display:flex; align-items: center; justify-content: space-evenly;" align="center">
+<div style="display:flex; flex-direction: row; align-items: center; justify-content: space-evenly;" align="center">
 <div align = "left">
 
 - 🌱 I’m currently learning **Java and Spring**
