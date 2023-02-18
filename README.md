@@ -17,7 +17,7 @@
 - 📫 How to reach me **`mahendrapratap354@gmail.com`**
 
 <!--------------------------- Github Stats ---------------------->
-<h2 align="center">GitHub Stats</h2>
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mhendrapratap&theme=github_dark">
@@ -27,12 +27,12 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mhendrapratap&theme=github_dark&utcOffset=8">	
 </p>
 <!------------------------------ Trophies ------------------------>
-<h2 align="center"><b>Trophies</b></h2>
+<h3 align="center"><b>Trophies</b></h3>
     <p align="center">
     <img height="150em" src="https://github-profile-trophy.vercel.app/?username=Mhendrapratap&theme=darkhub&no-frame=true&no-bg=false&margin-w=4"/>
     </p>
 <!-------------- TEch Stack --------------->
-<h2 align="center">My Tech Stack</h2>
+<h3 align="center">My Tech Stack</h3>
 <br/>
 <p align="center" >
   <a href="https://skillicons.dev">
@@ -41,7 +41,7 @@
 </p>
 
 <br/>
-<h2 align="center">Tools & Softwares</h2>
+<h3 align="center">Tools & Softwares</h3>
 
 <br/>
 <p align="center" >
