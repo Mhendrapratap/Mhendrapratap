@@ -2,9 +2,8 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">Hi, I'm Mahendra Pratap Singh</h1>
 <h3 align="center"><i>A passionate Java Backend Developer</i></h3>
 <br>
-<div style="display:flex; flex-direction: row; align-items: center; justify-content: space-evenly;" align="center">
-<div align = "left">
-
+<p align="right"><img alt="Coding" width="350"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
+         
 - 🌱 I’m currently learning **Java and Spring**
  
 - 👨‍💻 All of my projects are available at **[here](https://github.com/Mhendrapratap/Mhendrapratap)**
@@ -16,9 +15,6 @@
 - 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1LhTjZEdtS4vM05BD1QAa_KU8LkWvZHPv/view?usp=sharing)**
  
 - 📫 How to reach me **`mahendrapratap354@gmail.com`**
-</div>
-<div>
-<p align="center"><img alt="Coding" width="350"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p></div></div>
 <!--------------------------- Github Stats ---------------------->
 <h2 align="center">GitHub Stats</h2>
 
