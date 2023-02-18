@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hi, I'm Mahendra Pratap Singh</h1>
 <h3 align="center" ><i>A passionate Java Backend Developer</i></h3>
 <br>
-<table style="border: 0.5px solid;" align="center" widht="100%">
+<table style="border: 0px;" align="center" widht="100%">
 <tr>
 <td width="55%" >  
  
@@ -57,16 +57,10 @@
 	
 </p>
 <!------------------------------ Trophies ------------------------>
- </table>
-  <tr>
-    <td>
-    <h2 align="center"><b>Trophies</b></h2>
+ <h2 align="center"><b>Trophies</b></h2>
     <p align="center">
     <img height="150em" src="https://github-profile-trophy.vercel.app/?username=Mhendrapratap&theme=darkhub&no-frame=true&no-bg=false&margin-w=4"/>
     </p>
-    </td>
-    </tr>
-</table>
 <!-------------- TEch Stack --------------->
 <h3 align="center">My Tech Stack</h3>
 <br/>
