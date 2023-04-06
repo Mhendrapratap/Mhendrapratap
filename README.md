@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Java and Spring** 
 
-- 👨‍💻 All of my projects are available at **[here](https://github.com/Mhendrapratap/Mhendrapratap)**
+- :globe_with_meridians:💻 All of my projects are available at **[here](https://github.com/Mhendrapratap/Mhendrapratap)**
 
-- 👨🏻‍🎓 Visit my **[Portfolio](https://mhendrapratap.github.io/)**
+- :computer: Visit my **[Portfolio](https://mhendrapratap.github.io/)**
 
 - 💬 Ask me about **Java | DSA | Spring**
 
-- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1LhTjZEdtS4vM05BD1QAa_KU8LkWvZHPv/view?usp=sharing)**
+- :boy: Know more about me **[My Resume](https://drive.google.com/file/d/1LhTjZEdtS4vM05BD1QAa_KU8LkWvZHPv/view?usp=sharing)**
 
 - 📫 How to reach me **`mahendrapratap354@gmail.com`** 
 
