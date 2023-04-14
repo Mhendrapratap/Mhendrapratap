@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Spring and Spring Boot** 
 
-- :globe_with_meridians:💻 All of my projects are available at **[here](https://github.com/Mhendrapratap/Mhendrapratap)**
+- :globe_with_meridians:💻 All of my projects are available at **[here](https://github.com/Mhendrapratap?tab=repositories)**
 
 - :computer: Visit my **[Portfolio](https://mhendrapratap.github.io/)**
 
