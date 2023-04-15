@@ -15,7 +15,7 @@
 
 - :boy: Know more about me **[My Resume](https://drive.google.com/file/d/1LhTjZEdtS4vM05BD1QAa_KU8LkWvZHPv/view?usp=sharing)**
 
-- 📫 How to reach me **`mahendrapratap354@gmail.com`** 
+- :e-mail: How to reach me **`mahendrapratap354@gmail.com`** 
 
 
 
