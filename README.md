@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/97378497/234755407-cc8e5c48-f711-4cdb-bd4e-05a3c9f3f970.png">
+![banner](https://github.com/Mhendrapratap/Mhendrapratap/blob/main/Black%20Simple%20Elegant%20Personal%20LinkedIn%20Banner.gif?raw=true)
+
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">Hi, I'm Mahendra Pratap Singh</h1>
 <h3 align="center"><i>A passionate Java Backend Developer</i></h3>
 <br><br>
