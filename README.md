@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1hdZUteaj9lQXQZj98r4LoGrpQ5MqC7Da/view?usp=sharing">
+<img src="https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif">
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">Hi, I'm Mahendra Pratap Singh</h1>
 <h3 align="center"><i>A passionate Java Backend Developer</i></h3>
 <br><br>
