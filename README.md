@@ -36,7 +36,7 @@
     <p align="center">
     <img height="150em" src="https://github-profile-trophy.vercel.app/?username=Mhendrapratap&theme=darkhub&no-frame=true&no-bg=false&margin-w=4"/>
     </p>
-<!-------------- TEch Stack --------------->
+<!-------------- Tech Stack --------------->
 <h3 align="center">My Tech Stack</h3>
 <br/>
 <p align="center" >
@@ -56,8 +56,8 @@
 </p>
 <br/>
 <!---------------- Graph ---------------------->
-<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Mhendrapratap&theme=tokyo-night" alt="Mhendrapratap" /></p>
-<br/>
+<!-- <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Mhendrapratap&theme=tokyo-night" alt="Mhendrapratap" /></p>
+ --><br/>
 <p align="center">You are visitor</p>
 <p align="center">
 <img src="https://profile-counter.glitch.me/Mhendrapratap/count.svg" alt="" /></p>
