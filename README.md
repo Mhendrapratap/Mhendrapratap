@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">Hi, I'm Mahendra Pratap Singh</h1>
 <h3 align="center"><i>A passionate Java Backend Developer</i></h3>
 <br><br>
-<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="350px" align="right">
+<img src="https://www.springboard.com/blog/wp-content/uploads/2022/06/coding-.png" width="350px" align="right">
 <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320px" align="right"><br> -->
 
 - 🌱 I’m currently learning **Java, Spring and Spring Boot** 
