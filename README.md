@@ -6,7 +6,7 @@
 <img src="https://www.springboard.com/blog/wp-content/uploads/2022/06/coding-.png" width="350px" height= "280px" align="right">
 <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320px" align="right"><br> -->
 
-- 🌱 I’m currently learning **Javascript, React and Node ** 
+- 🌱 I’m currently learning ** Javascript, React and Node ** 
 
 - :globe_with_meridians:💻 All of my projects are available at **[here](https://github.com/Mhendrapratap?tab=repositories)**
 
