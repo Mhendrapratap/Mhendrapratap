@@ -6,13 +6,13 @@
 <img src="https://www.springboard.com/blog/wp-content/uploads/2022/06/coding-.png" width="350px" height= "280px" align="right">
 <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320px" align="right"><br> -->
 
-- 🌱 I’m currently learning **Java, Spring and Spring Boot** 
+- 🌱 I’m currently learning **Javascript, React and Node ** 
 
 - :globe_with_meridians:💻 All of my projects are available at **[here](https://github.com/Mhendrapratap?tab=repositories)**
 
 - :computer: Visit my **[Portfolio](https://mhendrapratap.github.io/)**
 
-- 💬 Ask me about **Java | DSA | Spring**
+- 💬 Ask me about **Javascript | DSA | React**
 
 - :boy: Know more about me **[My Resume](https://drive.google.com/file/d/1LhTjZEdtS4vM05BD1QAa_KU8LkWvZHPv/view?usp=sharing)**
 
