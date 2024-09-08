@@ -41,7 +41,7 @@
 <br/>
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i= MERN,js,HTML,CSS,linux,mysql,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,linux,mysql,bootstrap" />
   </a>
 </p>
 
@@ -51,7 +51,7 @@
 <br/>
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   </a>
 </p>
 <br/>
