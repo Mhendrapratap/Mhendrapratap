@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">Hi, I'm Mahendra Pratap Singh</h1>
 <h3 align="center"><i>A passionate Full-Stack Developer</i></h3>
 <br/><br/>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320px" height="280px" align="right">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320px" height="280px" align="right"/>
 
 - 🌱 I’m currently learning **` HTML, CSS, Javascript, React, and Node `** 
 
@@ -40,7 +40,7 @@
 <br/>
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,node.js,linux,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwindcss,linux,mysql" />
   </a>
 </p>
 
