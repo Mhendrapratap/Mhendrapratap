@@ -3,10 +3,10 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">Hi, I'm Mahendra Pratap Singh</h1>
 <h3 align="center"><i>A passionate Full-Stack Developer</i></h3>
 <br/><br/>
-<img src="http://www.springboard.com/blog/wp-content/uploads/2022/06/coding-.png" alt="img" width="350px" height= "300px" align="right">
+<img src="http://www.springboard.com/blog/wp-content/uploads/2022/06/coding-.png"  width="350px" height= "280px" align="right">
 <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320px" align="right"><br> -->
 
-- 🌱 I’m currently learning **` HTML, CSS, Javascript, React and Node `** 
+- 🌱 I’m currently learning **` HTML, CSS, Javascript, React, and Node `** 
 
 - :globe_with_meridians:💻 All of my projects are available at **[here](https://github.com/Mhendrapratap?tab=repositories)**
 
