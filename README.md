@@ -3,8 +3,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">Hi, I'm Mahendra Pratap Singh</h1>
 <h3 align="center"><i>A passionate Full-Stack Developer</i></h3>
 <br/><br/>
-<img src="http://www.springboard.com/blog/wp-content/uploads/2022/06/coding-.png"  width="350px" height= "280px" align="right">
-<!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320px" align="right"><br> -->
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320px" height="280px" align="right">
 
 - 🌱 I’m currently learning **` HTML, CSS, Javascript, React, and Node `** 
 
@@ -41,7 +40,7 @@
 <br/>
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,linux,mysql,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,node.js,linux,mysql" />
   </a>
 </p>
 
@@ -57,8 +56,6 @@
 <br/>
 <!------------------------------------------------------ Graph ------------------------------------------------------------>
 <!-- <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Mhendrapratap&theme=tokyo-night" alt="Mhendrapratap" /></p>
- --><br/>
-<p align="center">You are visitor</p>
-<p align="center"><img src="https://profile-counter.glitch.me/Mhendrapratap/count.svg" alt="" /></p>
-
+ <br/> -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mhendrapratap&label=Profile%20views&color=0e75b6&style=flat" alt="mhendrapratap" /> </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
